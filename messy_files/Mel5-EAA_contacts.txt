@@ -1,0 +1,2 @@
+
+C:\Users\bruce\Dropbox\High affinity TCR paper\Structures>ncont XYZIN "Mel5-EAA.pdb"  1>Mel5-EAA_contacts.txt 

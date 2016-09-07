@@ -1,0 +1,28 @@
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 6.5: NCONT                    version 6.5 :         ##
+ ###############################################################
+ User: bruce  Run date:  7/ 4/2016 Run time: 16:15:13 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+
+ ------------------------------------------------------------------------------
+
+ PDB file Mel5-EAA.pdb has been read in.
+
+ ------------------------------------------------------------------------------
+  Input cards
+
+
+ ------------------------------------------------------------------------------
+
+ Selected  0  source atoms
+ Selected  0  target atoms
+ NCONT:  NO SOURCE ATOMS SELECTED
+Times: User:       0.0s System:    0.0s Elapsed:     0:16  

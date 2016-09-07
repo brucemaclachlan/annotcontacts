@@ -1,0 +1,24 @@
+File: "Mel5-EAA.pdb"
+Cannot be opened for reading
+>>>>>> CCP4 library signal ccp4_general:Cannot find input file (Error)
+	 raised in ccp4setenv <<<<<<
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 6.5: NCONT                    version 6.5 :         ##
+ ###############################################################
+ User: bruce  Run date:  7/ 4/2016 Run time: 22:33:58 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+
+ ------------------------------------------------------------------------------
+
+ ***** ERROR #43 READ:
+
+ Logical file name not found.
+
